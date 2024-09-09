@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**aaraizali/aaraizali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I’m Working On
+- Developing innovative AI-driven projects
+- Exploring the latest in Generative AI
+- Learning and applying Web 3.0 and Cloud Computing technologies
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Artificial Intelligence
+- Generative AI
+- Web 3.0
+- Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m Currently Learning
+- Advanced Generative AI techniques
+- Decentralized applications with Web 3.0
+- Scalable cloud solutions
+
+## 📫 How to Reach Me
+- [LinkedIn](www.linkedin.com/in/aaraiz-ali-b4012029b)
+- [GitHub](https://github.com/aaraizali)
+
+Feel free to reach out if you’re interested in collaborating or discussing technology!

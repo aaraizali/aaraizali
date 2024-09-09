@@ -17,7 +17,7 @@
 - Scalable cloud solutions
 
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/aaraiz-ali-b4012029b)
+- [LinkedIn](https://www.linkedin.com/in/aaraiz-ali-b4012029b)
 - [GitHub](https://github.com/aaraizali)
 
 Feel free to reach out if you’re interested in collaborating or discussing technology!
